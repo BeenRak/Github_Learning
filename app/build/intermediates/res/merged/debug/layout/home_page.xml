@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/Black"
+    android:orientation="vertical" >
+      <include layout="@layout/add" />
+
+    <LinearLayout
+        
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+      
+
+        <Button
+            android:id="@+id/info"
+            android:layout_width="100dp"
+            android:layout_height="60dp"
+            android:layout_marginTop="10px"
+            android:background="@drawable/green_btn"
+            android:shadowColor="@color/White"
+            android:text="JAVA"
+            android:textColor="@color/White"
+            android:textSize="15dip" />
+
+        <Button
+            android:id="@+id/quiz"
+            android:layout_width="100dp"
+            android:layout_height="60dp"
+            android:layout_marginTop="10px"
+            android:background="@drawable/green_btn"
+            android:shadowColor="@color/White"
+            android:text="Quiz"
+            android:textColor="@color/White"
+            android:textSize="15dip" />
+    </LinearLayout>
+
+</LinearLayout>

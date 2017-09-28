@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\GitRepository\\E_Learning_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\java.png",
+        "source": "D:\\GitRepository\\E_Learning_App\\app\\src\\main\\res\\drawable-ldpi\\java.png"
+    },
+    {
+        "merged": "D:\\GitRepository\\E_Learning_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\html.png",
+        "source": "D:\\GitRepository\\E_Learning_App\\app\\src\\main\\res\\drawable-ldpi\\html.png"
+    },
+    {
+        "merged": "D:\\GitRepository\\E_Learning_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\cpp.png",
+        "source": "D:\\GitRepository\\E_Learning_App\\app\\src\\main\\res\\drawable-ldpi\\cpp.png"
+    },
+    {
+        "merged": "D:\\GitRepository\\E_Learning_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_launcher.png",
+        "source": "D:\\GitRepository\\E_Learning_App\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    }
+]

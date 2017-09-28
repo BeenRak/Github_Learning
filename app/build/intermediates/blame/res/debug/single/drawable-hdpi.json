@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\GitRepository\\E_Learning_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\GitRepository\\E_Learning_App\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\GitRepository\\E_Learning_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\java.png",
+        "source": "D:\\GitRepository\\E_Learning_App\\app\\src\\main\\res\\drawable-hdpi\\java.png"
+    },
+    {
+        "merged": "D:\\GitRepository\\E_Learning_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\me_bg.png",
+        "source": "D:\\GitRepository\\E_Learning_App\\app\\src\\main\\res\\drawable-hdpi\\me_bg.png"
+    },
+    {
+        "merged": "D:\\GitRepository\\E_Learning_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\cpp.png",
+        "source": "D:\\GitRepository\\E_Learning_App\\app\\src\\main\\res\\drawable-hdpi\\cpp.png"
+    },
+    {
+        "merged": "D:\\GitRepository\\E_Learning_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\html.png",
+        "source": "D:\\GitRepository\\E_Learning_App\\app\\src\\main\\res\\drawable-hdpi\\html.png"
+    }
+]

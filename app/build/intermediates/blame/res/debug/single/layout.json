@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\GitRepository\\E_Learning_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "D:\\GitRepository\\E_Learning_App\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "D:\\GitRepository\\E_Learning_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lists.xml",
+        "source": "D:\\GitRepository\\E_Learning_App\\app\\src\\main\\res\\layout\\lists.xml"
+    },
+    {
+        "merged": "D:\\GitRepository\\E_Learning_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\quiz.xml",
+        "source": "D:\\GitRepository\\E_Learning_App\\app\\src\\main\\res\\layout\\quiz.xml"
+    },
+    {
+        "merged": "D:\\GitRepository\\E_Learning_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash.xml",
+        "source": "D:\\GitRepository\\E_Learning_App\\app\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "D:\\GitRepository\\E_Learning_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ans.xml",
+        "source": "D:\\GitRepository\\E_Learning_App\\app\\src\\main\\res\\layout\\ans.xml"
+    },
+    {
+        "merged": "D:\\GitRepository\\E_Learning_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_page.xml",
+        "source": "D:\\GitRepository\\E_Learning_App\\app\\src\\main\\res\\layout\\home_page.xml"
+    },
+    {
+        "merged": "D:\\GitRepository\\E_Learning_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\add.xml",
+        "source": "D:\\GitRepository\\E_Learning_App\\app\\src\\main\\res\\layout\\add.xml"
+    }
+]

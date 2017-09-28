@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bgimage"
+    android:orientation="vertical" >
+	
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+		<include layout="@layout/add"  />
+        <TextView
+            android:id="@+id/qus1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:shadowColor="@color/White"
+            android:textColor="@color/White" 
+            android:textSize="15dip"
+            android:textStyle="bold"/>
+
+        <RadioGroup
+            android:id="@+id/rd1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+        </RadioGroup>
+
+        
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/save"
+            android:layout_width="110dip"
+            android:layout_height="50dip"
+            android:text="Save"
+            android:shadowColor="@color/White"
+            android:textColor="@color/White"
+            android:textSize="12dip"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/next1"
+            android:layout_width="110dip"
+            android:layout_height="50dip"
+            android:shadowColor="@color/White"
+            android:textColor="@color/White"
+            android:text="Next"
+            android:textSize="12dip"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/score1"
+            android:layout_width="110dip"
+            android:layout_height="50dip"
+            android:background="@drawable/green_btn"
+            android:shadowColor="@color/White"
+            android:textColor="@color/White"
+            android:text="Score"
+            android:textSize="12dip"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+</RelativeLayout>

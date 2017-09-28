@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bgimage"
+    android:orientation="vertical" >
+
+   
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+         <include layout="@layout/add" />
+
+        <ListView
+            android:id="@+id/list1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+        </ListView>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/btnprv"
+            android:layout_width="160dip"
+            android:layout_height="50dip"
+            android:background="@drawable/green_btn"
+            android:drawableLeft="@drawable/prev"
+            android:shadowColor="@color/White"
+            android:text="Previous"
+            android:textColor="@color/White"
+            android:textSize="18dp" />
+
+        <Button
+            android:id="@+id/btnnext"
+            android:layout_width="160dip"
+            android:layout_height="50dip"
+            android:background="@drawable/green_btn"
+            android:drawableRight="@drawable/next"
+            android:shadowColor="@color/White"
+            android:text="Next"
+            android:textColor="@color/White"
+            android:textSize="18dp" />
+    </LinearLayout>
+
+</RelativeLayout>
